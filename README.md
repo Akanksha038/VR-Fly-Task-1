@@ -43,8 +43,11 @@ As the **Frontend & AR Developer**, I:
 
 ## 📸 Demo
 
-> 🔗 [Click here to watch the live demo](#) *(insert link if available)*  
-> 📷 Or scan the marker image below using your mobile AR viewer *(insert marker image)*
+
+
+ 
+
+
 
 ---
 
